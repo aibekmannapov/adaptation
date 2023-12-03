@@ -1,0 +1,218 @@
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 768px) {
+  .foto2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .box2 {
+    display: none;
+  }
+  .box a {
+    display: none;
+  }
+  .burger-menu {
+    display: block;
+  }
+
+  .tt {
+    height: 70px;
+  }
+  .chek2 {
+    display: flex;
+  }
+
+  .chek2 h1 {
+    width: 309px;
+    font-size: 24px;
+  }
+
+  .hero {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .hero img {
+    width: 100%;
+  }
+  .tops p {
+    max-width: 350px;
+  }
+
+  .mec2 h1 {
+    width: 280px;
+  }
+
+  .mec2 p {
+    width: 280px;
+  }
+  .mec {
+    width: 360px;
+    height: 372px;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .herdero h1 {
+    width: 897px;
+  }
+  .meccer {
+    display: flex;
+    justify-content: center;
+  }
+  .jjjj {
+    width: 284.012px;
+    height: 1.5px;
+    background: #767676;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .herdero svg {
+    width: 130px;
+    height: 60.5px;
+    stroke-width: 1.625px;
+    stroke: #fff;
+  }
+  .kot {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .top h1 {
+    font-size: 36px;
+  }
+  .top p {
+    font-size: 16px;
+  }
+
+  .tops p {
+    max-width: 30px;
+  }
+  .tops2 p {
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .foto2 h1 {
+    text-align: center;
+    max-width: 100%;
+    font-size: 16px;
+  }
+  .tops p {
+    max-width: 250px;
+  }
+
+  .mec {
+    max-width: 280px;
+  }
+
+  .mec2 h1 {
+    width: 200px;
+  }
+
+  .mec4 {
+    font-size: 10px;
+    padding: none;
+  }
+
+  .mec2 p {
+    width: 210px;
+  }
+  .mec h1 {
+    font-size: 18px;
+    max-width: 100%;
+  }
+  .blok {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .blok2 h1 {
+    display: flex;
+    text-align: center;
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 65px;
+  }
+
+  .blok2 p {
+    display: flex;
+    align-items: center;
+    width: 280px;
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 12px;
+  }
+
+  .blok3 input {
+    width: 284px;
+    height: 47px;
+    flex-shrink: 0;
+  }
+
+  .blok3 button {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+  }
+  .img5 {
+    display: none;
+  }
+
+  .img2 {
+    display: none;
+  }
+
+  .img4 {
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  .img4 h1 {
+    text-align: start;
+    margin-top: 20px;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer h2 {
+    text-align: start;
+  }
+
+  .img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .kokero{
+    display: flex;
+  }
+}
+
+@media (max-width: 320px) {
+}
